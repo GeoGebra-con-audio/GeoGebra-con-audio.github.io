@@ -4,13 +4,17 @@ Aquí, en este folder puedes poner audio.
 
 ## Uso correcto de enlace
 
-1. Source en GitHub (no accesso para escuchar, solo descargar): https://github.com/GeoGebra-con-audio/GeoGebra-con-audio.github.io/blob/main/audio/Hola.mp3
+1. Source en GitHub (no accesso para escuchar, solo descargar):
 
-2. Source accesible a través de la web (usando navegador): https://geogebra-con-audio.github.io/audio/Hola.mp3
+``https://github.com/GeoGebra-con-audio/GeoGebra-con-audio.github.io/blob/main/audio/Hola.mp3``
+
+2. Source accesible a través de la web (usando navegador):
+
+``https://geogebra-con-audio.github.io/audio/Hola.mp3``
 
 ### Nombre de archivos
 
-Recuerda renombrar tus archivos con minúsculas. Es mejor: hola.pm3
+Recuerda renombrar tus archivos con minúsculas. Es mejor: `hola.pm3`
 
 ## Cómo crear nuevas carpetas
 
