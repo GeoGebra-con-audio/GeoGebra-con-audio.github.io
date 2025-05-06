@@ -24,6 +24,6 @@ Para crear carpetas en GitHub. Desde tú cuenta, primero das clic en crear archi
 
 después crea un archivo de información con extensión md, que puedes llamar "leeme":
 
-`leeme.md`
+`nueva-carpeta/leeme.md`
 
 Escribe lo que quieras de información en este archivo. Y después de crear este archivo, entonces puedes comenzar a poner más audios.
